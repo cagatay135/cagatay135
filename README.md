@@ -5,12 +5,12 @@
 - 📫 How to reach me: cagatay135@gmail.com
 
 <h3 align="left">Connect with me:</h3>
-<p align="left">
-<a href="https://www.linkedin.com/in/cagataycuruk/" target="blank"><img align="center" src="https://velanovascular.com/wp-content/uploads/2020/06/LinkedIn.png" alt="cagataycuruk" height="30" width="30" /></a>
-<a href="https://twitter.com/cagatay_curuk" target="blank"><img align="center" src="https://assets.stickpng.com/images/580b57fcd9996e24bc43c53e.png" alt="12544106" height="45" width="45" /></a>
+
+<a href="https://www.linkedin.com/in/cagataycuruk/" target="blank"><img align="center" src="https://img.icons8.com/color/48/000000/linkedin.png" alt="cagataycuruk" height="30" width="30" /></a>
+<a href="https://twitter.com/cagatay_curuk" target="blank"><img align="center" src="https://img.icons8.com/color/48/000000/twitter--v1.png" alt="12544106" height="30" width="30" /></a>
 </p>
 
-### Languages and Tools:
+<h3 align="left">Languages and Tools:</h3>
 
 [<code>
 <img alt="python" width="26px" src="https://img.icons8.com/color/240/000000/python.png">
@@ -45,6 +45,7 @@
 [<code>
 <img alt="visual studio code" width="26px" src="https://img.icons8.com/fluent/240/000000/visual-studio-code-2019.png" />
 </code>](https://code.visualstudio.com/)
+
 
 <!--
 **cagatay135/cagatay135** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
