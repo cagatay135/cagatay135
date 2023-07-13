@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Çağatay</h1>
 
 - 🌱 I’m currently learning Swift
-- 💬 Ask me about SpringBoot, Python , Django , OpenCV , React , NodeJS
+- 💬 Ask me about Spring Boot, Python , Django , OpenCV , React , NodeJS
 - 📫 How to reach me: cagatay135@gmail.com
 
 <h3 align="left">Connect with me:</h3>
